@@ -1,5 +1,11 @@
-### Hi there 👋
 
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/Dexctersu/posts.svg)](http://qiita.com/Dexctersu)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/Dexctersu/contributions.svg)](http://qiita.com/Dexctersu)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/Dexctersu/followers.svg)](http://qiita.com/Dexctersu)
+                
 <!--
 **Dexctersu/Dexctersu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
